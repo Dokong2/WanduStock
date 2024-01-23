@@ -1,2 +1,1 @@
-# -WanduStock-
-빨강선 상승!
+# WanduStock - 완두콩의 주식 시뮬레이터
